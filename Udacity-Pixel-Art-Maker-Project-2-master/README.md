@@ -2,6 +2,8 @@ Pixel-Art-Maker
 
 Udacity Pixel Art Maker Project
 
+https://www.youtube.com/watch?v=4hVr5yNz6aU&t=12s
+
 Instructions
 Get the Starter Code
 If you'd like to start from scratch without any files, feel free to do so! You learn the most by developing on your own! But, it can be a bit challenging having to start from scratch, so we do provide some starter code to use.
